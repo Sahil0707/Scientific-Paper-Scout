@@ -25,7 +25,7 @@ It automatically downloads a PDF from a given URL, extracts the text from the fi
 1. Clone the repository:
    ```sh
    git clone https://github.com/Sahil0707/Scientific-Paper-Scout.git
-   cd solar-ai-assistant
+   cd Scientific-Paper-Scout
 2. Create a virtual environment and activate it:
    ```sh
    python -m venv .venv
